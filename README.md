@@ -6,7 +6,7 @@
 - 📃 Diving deeper into Mathematics & Statistics for Data Science
 - 🔭 To major in Machine Learning & Deep Learning 
 - 📫 How to reach me aromehjoseph0@gmail.com
-- 📫 www.joeromzy.net
+- 📫 https://642d743b672c4.site123.me/
 
 <!---
 Romzy01/Romzy01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
